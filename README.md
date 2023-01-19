@@ -1,4 +1,4 @@
-<h1>Hi, I'm Denal Bugata! <a href="https://www.linkedin.com/in/denalbugata/">Information Systems Graduate</a></h1>
+<h1>Hi, I'm Denal Bugata!<h1>
 
 <h2>👨‍💻 Cybersecurity / IT Projects:</h2>
 
