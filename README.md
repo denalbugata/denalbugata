@@ -1,6 +1,6 @@
 <h1>Hi, I'm Denal Bugata!<h1>
   
-  <h2>👾Mini Cybersecuirty/ IT Project:</h2>
+  <h2>👾Mini Cybersecurity/ IT Project:</h2>
    
    - [Password Strength Checker](https://github.com/denalbugata/Password-Strength-Checker-Lab)
    - [Simple Encryption Maker Lab](https://github.com/denalbugata/Simple-Encryption-Maker-Lab)
