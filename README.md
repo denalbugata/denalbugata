@@ -9,7 +9,7 @@
 
   - [Network Scanner Project](https://github.com/denalbugata/Network-Port-Scanner-Project)
   - [Keylogger Practice Project](https://github.com/denalbugata/Keylogger-Practice-Project)
-  -[Simple Email Spam Detector](https://github.com/denalbugata/Simple-Email-Spam-Detector)
+  - [Simple Email Spam Detector](https://github.com/denalbugata/Simple-Email-Spam-Detector)
 
 
 <h2> 🤳 Connect with me:</h2>
