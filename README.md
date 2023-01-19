@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity / IT Projects:</h2>
 
   - [Network Scanner Project](https://github.com/denalbugata/Network-Port-Scanner-Project)
+  - [Keylogger Practice Project](https://github.com/denalbugata/Keylogger-Practice-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
