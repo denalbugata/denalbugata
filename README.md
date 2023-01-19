@@ -3,6 +3,7 @@
   <h2>👾Mini Cybersecuirty/ IT Project:</h2>
    
    - [Password Strength Checker](https://github.com/denalbugata/Password-Strength-Checker-Lab)
+   - [Simple Encryption Maker Lab](https://github.com/denalbugata/Simple-Encryption-Maker-Lab)
 
   <h2>👨‍💻 Final Cybersecurity / IT Projects:</h2>
 
