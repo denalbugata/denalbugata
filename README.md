@@ -5,6 +5,7 @@
    - [Password Strength Checker](https://github.com/denalbugata/Password-Strength-Checker-Lab)
    - [Simple Encryption Maker Lab](https://github.com/denalbugata/Simple-Encryption-Maker-Lab)
    - [Internet Speed Checker Lab](https://github.com/denalbugata/Internet-Speed-Checker)
+   - [Random Password Generator](https://github.com/denalbugata/Random-Password-Generator)
 
   <h2>👨‍💻 Final Cybersecurity / IT Projects:</h2>
 
